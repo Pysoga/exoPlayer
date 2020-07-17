@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+        <!--    Quality-->
+        <item
+            android:id="@+id/itemQuality"
+            android:title="Quality"
+            app:showAsAction="never" />
+        <!--    Audio-->
+        <item
+            android:id="@+id/itemAudio"
+            android:title="Audio" />
+        <!--    Captions-->
+        <item
+            android:id="@+id/itemCaptions"
+            android:title="Captions"
+            app:showAsAction="never">
+            <menu>
+                <item
+                    android:id="@+id/subItemF31"
+                    android:title="Subitem for 3 1" />
+                <item
+                    android:id="@+id/subItemF32"
+                    android:title="Subitem for 3 2" />
+
+            </menu>
+        </item>
+        <!--    Speed-->
+        <item
+            android:id="@+id/itemSpeed"
+            android:title="Speed"
+            app:showAsAction="never">
+            <menu>
+                <item
+                    android:id="@+id/subitemSpeed0.25"
+                    android:title="0.25x" />
+                <item
+                    android:id="@+id/subitemSpeed0.5"
+                    android:title="0.5x" />
+                <item
+                    android:id="@+id/subitemSpeed0.75"
+                    android:title="0.75x" />
+                <item
+                    android:id="@+id/subitemSpeed1"
+                    android:title="Normal (1x)" />
+                <item
+                    android:id="@+id/subitemSpeed1.25"
+                    android:title="1.25x" />
+                <item
+                    android:id="@+id/subitemSpeed1.5"
+                    android:title="1.5x" />
+                <item
+                    android:id="@+id/subitemSpeed1.75"
+                    android:title="1.75x" />
+                <item
+                    android:id="@+id/subitemSpeed2"
+                    android:title="2x" />
+            </menu>
+        </item>
+</menu>

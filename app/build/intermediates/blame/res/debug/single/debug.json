@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_pdlg_anim_fade_in.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/pdlg_anim_fade_in.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_back.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_windmill_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/windmill_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_zoom_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/zoom_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_up_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_up_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_rew.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_rew.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_left_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_left_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_custom_rounded_corner.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/custom_rounded_corner.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_diagonal_right_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/diagonal_right_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_pdlg_anim_fade_out.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/pdlg_anim_fade_out.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_down_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_down_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_out_right.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_down.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_up.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/layout_fragment_controller.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/layout/fragment_controller.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_test_options.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_test_options.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/layout_custom_controller.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/layout/custom_controller.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_pause.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_windmill_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/windmill_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/layout_frame_options.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/layout/frame_options.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_zoom_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/zoom_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_fade_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/fade_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_fade_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/fade_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/layout_fragment_speed_options.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/layout/fragment_speed_options.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/menu_options_menu.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/menu/options_menu.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_up_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_up_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_down_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_down_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_diagonal_right_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/diagonal_right_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_play.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_in_left.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_fullscreen.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_fullscreen.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_fullscreen_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_spin_enter.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/spin_enter.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_spin_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/spin_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/anim_slide_left_exit.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/anim/slide_left_exit.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/drawable_ic_ff.xml.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/drawable/ic_ff.xml"
+    },
+    {
+        "merged": "/home/pysoga/workspace/ExoPlayer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pysoga/workspace/ExoPlayer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
